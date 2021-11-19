@@ -1,2 +1,4 @@
 # DataInsight
-All the repos for DataInsight assignments
+All the examples and tasks for the DataInsight program.
+
+Thanks to DataInsight for the opportunity - Data Scientist Scholarship Program.
